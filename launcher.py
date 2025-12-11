@@ -17,7 +17,7 @@ while rodando:
         from graficos_uau import rodar
     elif dec == "3":
         rodando = False
-        from idade_pineun import rodar
+        from idade_mediana import rodar
     elif dec == "4":
         rodando = False
         from pizza import rodar
