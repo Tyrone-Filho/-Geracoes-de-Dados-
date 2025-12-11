@@ -1,0 +1,3 @@
+#ignorar as pastas que o vscode/pycharm cria automatico
+.vscode/
+.idea/
